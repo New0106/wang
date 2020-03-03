@@ -19,10 +19,10 @@
 			<h2 style="padding-top: 90px;">国际新闻</h2>
 			<h2 style="padding-top: 90px;">热点新闻</h2>
 		</div>
-		<div style="color:green;margin: 5px 3px 5px 5px;float:left;width:68.5%;height:235px; border:1px solid black;" >
+		<div style="color:green;margin: 5px 3px 5px 5px;float:left;width:68.7%;height:235px; border:1px solid black;" >
 			<h3>今天天气真的开始回温了</h3>
 		</div>
-		<div id="weng" style="color:blue;margin: 5px 3px 5px 5px;float:left;width:68.5%;height:400px; border:1px solid black;" >
+		<div id="weng" style="color:blue;margin: 5px 3px 5px 5px;float:left;width:68.7%;height:400px; border:1px solid black;" >
 			<span>请输入内容</span>
 		</div>
 	</div>
